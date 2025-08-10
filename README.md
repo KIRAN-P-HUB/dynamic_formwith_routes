@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+##install all npm related packages 
+
+npm install @reduxjs/toolkit react-redux react-router-dom @mui/material @mui/icons-material @emotion/react @emotion/styled
+
+npm install react-beautiful-dnd    # For drag-and-drop reorder
+npm install uuid                   # For generating field IDs
+
